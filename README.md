@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Appium, Burp Suite, OWASP ZAP,**
 
-- 👨‍💻 My linkedin Profile [https://www.linkedin.com/in/poobalan-p-16b9331a4/](https://www.linkedin.com/in/poobalan-p-16b9331a4/)
+- 👨‍💻 My LinkedIn Profile [https://www.linkedin.com/in/poobalan-p-16b9331a4/](https://www.linkedin.com/in/poobalan-p-16b9331a4/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/poobalan-p-16b9331a4/**
+- 📫 How to reach me **poobalanbalu475@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1JCfQVKxreZ4RlxRCxENzbtBpffxtSVQvYkLBYvFkIT0/edit?usp=sharing](https://docs.google.com/document/d/1JCfQVKxreZ4RlxRCxENzbtBpffxtSVQvYkLBYvFkIT0/edit?usp=sharing)
 
